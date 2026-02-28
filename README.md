@@ -18,7 +18,6 @@
 - ✨ Building beautiful digital spaces  
 - 🤖 Curious about **AI, TouchDesigner & visual tracking**
 - 🎮 夢のようなゲームづくり (creating dream-like games)
-- 🌿 Currently learning **full-stack development**
 
 ---
 
