@@ -3,16 +3,8 @@
 👩🏻‍💻 **cs student at UofA**  
 🎨 I love creating **frontend, design & creative coding**  
 ✨ Building beautiful digital spaces  
-
----
-
-## 🌿 Interests  
 🤖 Curious about **AI, TouchDesigner & visual tracking**  
 🎮 夢のようなゲームづくり (creating dream-like games)  
-
----
-
-## 🌱 Currently  
 🌿 Learning **full-stack development**  
 ✨ Soft ideas, strong logic
 
