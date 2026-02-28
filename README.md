@@ -1,15 +1,44 @@
-# 🌸 こんにちは, i'm dedee  
+<h1 align="center">🌸 こんにちは, I'm Dedee 👩🏻‍💻</h1>
 
-👩🏻‍💻 **cs student at UofA**  
-🎨 I love creating **frontend, design & creative coding**  
-✨ Building beautiful digital spaces  
-🤖 Curious about **AI, TouchDesigner & visual tracking**  
-🎮 夢のようなゲームづくり (creating dream-like games)  
-🌿 Learning **full-stack development**  
+<h3 align="center">✨cs student at UofA✨</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dedeeThetHnin&label=Profile%20Views&color=ffb6c1&style=flat" alt="profile-views" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="280"/>
+</p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedeethethnin&label=Profile%20views&color=0e75b6&style=flat" alt="dedeethethnin" /> </p>
+<h2 align="left">🌷 What I Create 🌷</h2>
 
-# Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- 🎨 I love creating **frontend, design & creative coding**
+- ✨ Building beautiful digital spaces  
+- 🤖 Curious about **AI, TouchDesigner & visual tracking**
+- 🎮 夢のようなゲームづくり (creating dream-like games)
+- 🌿 Currently learning **full-stack development**
+
+---
+
+<h2 align="left">💻 Languages & Tools 💖</h2>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+<h2 align="left">🌸 Most Used Languages 🌸</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeeThetHnin&layout=compact&theme=rose_pine&hide_border=true"/>
+</p>
