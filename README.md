@@ -1,6 +1,6 @@
 # 🌸 こんにちは, i'm dedee  
 
-👩🏻‍💻 **Computer Science student at UofA**  
+👩🏻‍💻 **cs student at UofA**  
 🎨 I love creating **frontend, design & creative coding**  
 ✨ Building beautiful digital spaces  
 
