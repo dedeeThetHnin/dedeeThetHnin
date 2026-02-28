@@ -6,7 +6,6 @@
 🤖 Curious about **AI, TouchDesigner & visual tracking**  
 🎮 夢のようなゲームづくり (creating dream-like games)  
 🌿 Learning **full-stack development**  
-✨ Soft ideas, strong logic
 
 ---
 
