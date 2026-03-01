@@ -1,6 +1,6 @@
 <h1 align="center">🌸 こんにちは, I'm Dedee 👩🏻‍💻</h1>
 
-<h3 align="center">✨cs student at UofA✨</h3>
+<h3 align="center">✨Aw, yeah! This is happenin'!✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dedeeThetHnin&label=Profile%20Views&color=ffb6c1&style=flat" alt="profile-views" />
